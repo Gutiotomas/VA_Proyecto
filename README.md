@@ -1,0 +1,1 @@
+A través de este proyecto logramos reconocer por medio de visión por computador, los tipos de enfermedades que presentan las plantas, utilizando fotos de sus hojas en mal estado; y así, clasificar los tipos de enfermedades y generar recomendaciones de los tratamientos apropiados para erradicarlas.
