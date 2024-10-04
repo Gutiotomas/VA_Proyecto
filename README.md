@@ -1,1 +1,1 @@
-A través de este proyecto logramos reconocer por medio de visión por computador, los tipos de enfermedades que presentan las plantas, utilizando fotos de sus hojas en mal estado; y así, clasificar los tipos de enfermedades y generar recomendaciones de los tratamientos apropiados para erradicarlas.
+Through this project, we were able to use computer vision to identify the types of diseases that plants have, using photographs of their leaves in poor condition; and thus, classify the types of diseases and generate recommendations for the appropriate treatments to eradicate them.
